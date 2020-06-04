@@ -1,1 +1,1 @@
-https://github.com/bidyut2002in/home/
+https://bidyut2002in.github.io/home/
