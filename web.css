@@ -1,0 +1,20 @@
+/* 
+    Document   : homePage
+    Created on : Mar 29, 2012, 9:31:13 PM
+    Author     : Bidyut Das
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+body
+{
+  background-color: #FFB0FF; 
+}
